@@ -1,8 +1,8 @@
-﻿// Bài tập đọc ghi file text số 5
-#define _CRT_SECURE_NO_WARNINGS // nếu không dùng visual studio thì xóa bỏ dòng này đi
+﻿#define _CRT_SECURE_NO_WARNINGS // nếu không dùng visual studio thì xóa bỏ dòng này đi
 #include <stdio.h>
 
-/*
+/* 
+* Bài tập đọc ghi file text số 5
 * @author Branium Academy
 * @version 2023.05
 * @see https://braniumacademy.net
